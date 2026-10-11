@@ -1,0 +1,5 @@
+Workstream: Operations Readiness
+Week: 40 (2 October 2026)
+Author: Operations Readiness Lead
+
+The hypercare staffing plan was due for approval on 9 October. The model requires 58 FTE for the first three weeks; current confirmed staffing is 50 FTE, which is 86% of the requirement, because two teams in the service centre carry year-end volumes in the same period. Approval is therefore held until the gap is closed or a mitigation is agreed. Backlog projection for week 1 after go-live is 78% of processing capacity, within tolerance but with little room. The load test is now planned at 100% of expected peak on 16 October; the 120% run cannot be scheduled until Platform Engineering's batch fix is in, which is 23 October at the earliest. The BCP update has been drafted and the walkthrough is booked for 28 October. Client complaint volumes linked to the program are flat week on week.

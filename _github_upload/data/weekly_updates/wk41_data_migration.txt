@@ -1,0 +1,5 @@
+Workstream: Data Migration
+Week: 41 (9 October 2026)
+Author: Data Migration Lead
+
+Mock migration 3 has been moved from 10 October to 17 October to run on the build that includes the batch window fix. This depends on Platform Engineering holding the 23 October deployment date for the production-like environment, which they have confirmed verbally but not in the change calendar. DEF-114 (duplicate client identifiers) has a fix in test and is expected to close by 16 October. DEF-121 (missing tax domicile) requires manual enrichment of 312 records by the client advisors concerned; Business Change has been asked to coordinate and no owner has been confirmed yet. Reconciliation sign-off by Finance remains planned for 13 November. The contractor replacement request has been approved. Treasury has asked for one further change to the currency table, which would reopen the mapping sign-off; we have declined pending SteerCo guidance.

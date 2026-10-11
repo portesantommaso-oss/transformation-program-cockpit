@@ -1,0 +1,5 @@
+Workstream: Risk and Control
+Week: 40 (2 October 2026)
+Author: Risk and Control Lead
+
+Key control testing on the target platform is 90% complete with evidence filed; the remaining controls relate to the four-eyes check on manual payments and cannot be tested until the dress rehearsal 2 build is available. Compliance has indicated approval is likely by 30 October subject to the client notification evidence pack, which Business Change has provided. Operational Risk has stated it will not sign off while severity 2 data defects remain open, so its approval now moves from 30 October to 13 November, which is after the go/no-go SteerCo on 6 November. We need the SteerCo to decide whether a conditional approval from Operational Risk is acceptable for the decision on 6 November. Record retention: the archiving approach is agreed in principle and written confirmation from Records Management is expected by 16 October. There are no open audit findings linked to the release.

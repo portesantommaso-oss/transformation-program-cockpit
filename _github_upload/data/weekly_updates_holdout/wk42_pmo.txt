@@ -1,0 +1,5 @@
+Workstream: PMO
+Week: 42 (16 October 2026)
+Author: PMO Lead
+
+Decision paper drafting started; structure agreed with the Sponsor. Still no written answer from Finance on the year-end freeze calendar, chased twice. Release management confirmed the 21 to 22 November slot; 28 to 29 November is the only fallback before the network freeze. The vendor invoice for the archiving tool extension is CHF 42k against CHF 30k budgeted. The SteerCo pre-read deadline was brought forward to 3 November at the Sponsor's request and workstreams were told today. The PMO analyst is on leave from 2 to 13 November and cover is not yet arranged.

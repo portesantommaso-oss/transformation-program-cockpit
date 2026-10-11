@@ -1,0 +1,5 @@
+Workstream: Data Migration
+Week: 40 (2 October 2026)
+Author: Data Migration Lead
+
+Mock migration 2 closed on 19 September with 99.1% of records reconciled; the remaining breaks are concentrated in structured-product positions where the legacy valuation feed uses a different pricing time. Mapping sign-off for reference data was completed on 25 September, two weeks later than planned, after Treasury requested changes to the currency table. Mock migration 3 is scheduled for 10 October but we are waiting on Platform Engineering to deploy the batch window fix first. If the fix is not in by 7 October we will run mock 3 on the old build, which weakens the evidence for the go/no-go paper. Two severity 2 data defects remain open: DEF-114 (duplicate client identifiers for joint accounts) and DEF-121 (missing tax domicile on 312 legacy records). Two of the three mock runs used last quarter's reference data snapshot. Team capacity is stable. One contractor rolls off at the end of October and a replacement has been requested.

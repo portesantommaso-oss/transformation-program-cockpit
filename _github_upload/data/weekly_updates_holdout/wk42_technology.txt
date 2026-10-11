@@ -1,0 +1,5 @@
+Workstream: Technology Cut-over
+Week: 42 (16 October 2026)
+Author: Technology Delivery Lead
+
+Regression on the batch fix: 212 of 240 cases passed, 28 outstanding, 3 failures under investigation. Deployment on 23 October is still planned, but the change advisory board meets on 21 October and has asked for the failure analysis beforehand. The DEF-209 fix is bundled into the same deployment. DR2 runbook v4 issued. Rollback scripts for the application layer are written but unreviewed. The network team flagged that the 1 December freeze may start on 24 November for the Zurich sites; written confirmation requested.

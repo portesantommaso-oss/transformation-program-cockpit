@@ -1,0 +1,5 @@
+Workstream: Risk and Control
+Week: 42 (16 October 2026)
+Author: Risk and Control Lead
+
+Control testing 90%, unchanged; the four-eyes control is still waiting for the DR2 build. Compliance approval on track for 30 October. Operational Risk reiterated its position in writing: no approval while DEF-121 is open, and a conditional approval would need the Head of Operational Risk to agree in person at the SteerCo. Records Management confirmed the retention approach in writing on 15 October. Internal Audit has scheduled a readiness review for 10 to 12 November; findings would arrive after the go/no-go.

@@ -1,0 +1,5 @@
+Workstream: Data Migration
+Week: 42 (16 October 2026)
+Author: Data Migration Lead
+
+Mock 3 ran on 17 October on the new build. Reconciliation 99.4%, up from 99.1%; 61 breaks, all in structured products, root cause unchanged. DEF-114 closed on 15 October. DEF-121: 118 of 312 records enriched; advisors on the two largest desks have not started, the same desks as the training gap. At the current pace completion lands around 12 November, not 6 November. Treasury escalated the currency table change to the CFO office. Finance confirmed 13 November for reconciliation sign-off.

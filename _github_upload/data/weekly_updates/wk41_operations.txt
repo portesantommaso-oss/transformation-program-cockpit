@@ -1,0 +1,5 @@
+Workstream: Operations Readiness
+Week: 41 (9 October 2026)
+Author: Operations Readiness Lead
+
+Confirmed hypercare staffing is unchanged at 50 of 58 FTE. We propose two options for the SteerCo: approve 8 temporary FTE from the service partner for three weeks at an estimated CHF 180,000, or reduce day-one scope by deferring the corporate actions module to a December release. Without one of these the staffing criterion stays red. The 100% load test is on 16 October as planned. The BCP walkthrough is booked for 28 October. We have identified that the service partner contract requires four weeks' notice for staff augmentation, so the decision is needed by 23 October to be effective for cut-over. Complaint volumes remain flat.

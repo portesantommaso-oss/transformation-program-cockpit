@@ -1,0 +1,102 @@
+{
+  "wk42_pmo.txt": [
+    {
+      "type": "dependency",
+      "summary": "No written answer from Finance on freeze calendar",
+      "anchor": "Still no written answer from Finance"
+    },
+    {
+      "type": "issue",
+      "summary": "Archiving invoice CHF 42k vs 30k budget",
+      "anchor": "CHF 42k against CHF 30k budgeted"
+    },
+    {
+      "type": "risk",
+      "summary": "Pre-read deadline compressed to 3 Nov",
+      "anchor": "brought forward to 3 November"
+    },
+    {
+      "type": "risk",
+      "summary": "PMO analyst leave, cover not arranged",
+      "anchor": "cover is not yet arranged"
+    }
+  ],
+  "wk42_data_migration.txt": [
+    {
+      "type": "issue",
+      "summary": "Largest desks have not started DEF-121 enrichment",
+      "anchor": "have not started"
+    },
+    {
+      "type": "slip",
+      "summary": "DEF-121 completion around 12 Nov, not 6 Nov",
+      "anchor": "lands around 12 November, not 6 November"
+    },
+    {
+      "type": "risk",
+      "summary": "Treasury escalated currency table change",
+      "anchor": "escalated the currency table change"
+    }
+  ],
+  "wk42_technology.txt": [
+    {
+      "type": "issue",
+      "summary": "3 regression failures under investigation",
+      "anchor": "3 failures under investigation"
+    },
+    {
+      "type": "dependency",
+      "summary": "CAB wants failure analysis before 23 Oct deployment",
+      "anchor": "asked for the failure analysis beforehand"
+    },
+    {
+      "type": "issue",
+      "summary": "Application rollback scripts unreviewed",
+      "anchor": "written but unreviewed"
+    },
+    {
+      "type": "risk",
+      "summary": "Freeze may start 24 Nov for Zurich",
+      "anchor": "may start on 24 November"
+    }
+  ],
+  "wk42_training_operations.txt": [
+    {
+      "type": "issue",
+      "summary": "Desk B cancelled protected training slot",
+      "anchor": "desk B cancelled theirs"
+    },
+    {
+      "type": "decision",
+      "summary": "Chair asked for a third staffing option",
+      "anchor": "asked for a third staffing option"
+    },
+    {
+      "type": "dependency",
+      "summary": "Partner mobilisation conditional on 23 Oct contract",
+      "anchor": "if contracted by 23 October"
+    },
+    {
+      "type": "slip",
+      "summary": "BCP walkthrough moved to 4 Nov",
+      "anchor": "moved to 4 November"
+    }
+  ],
+  "wk42_risk_control.txt": [
+    {
+      "type": "dependency",
+      "summary": "Four-eyes control waits for DR2 build",
+      "anchor": "still waiting for the DR2 build"
+    },
+    {
+      "type": "decision",
+      "summary": "Conditional approval needs Head of Op Risk at SteerCo",
+      "anchor": "would need the Head of Operational Risk"
+    },
+    {
+      "type": "risk",
+      "summary": "Audit findings arrive after go/no-go",
+      "anchor": "findings would arrive after the go/no-go"
+    }
+  ]
+}

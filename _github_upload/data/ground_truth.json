@@ -1,0 +1,217 @@
+{
+  "wk40_data_migration.txt": [
+    {
+      "type": "slip",
+      "summary": "Mapping sign-off two weeks late",
+      "anchor": "two weeks later than planned"
+    },
+    {
+      "type": "dependency",
+      "summary": "Mock 3 waits on batch window fix",
+      "anchor": "waiting on Platform Engineering"
+    },
+    {
+      "type": "risk",
+      "summary": "Mock 3 on old build weakens go/no-go evidence",
+      "anchor": "If the fix is not in by 7 October"
+    },
+    {
+      "type": "issue",
+      "summary": "Two severity 2 data defects open",
+      "anchor": "Two severity 2 data defects remain open"
+    },
+    {
+      "type": "risk",
+      "summary": "Mock runs used stale reference data",
+      "anchor": "last quarter's reference data snapshot"
+    },
+    {
+      "type": "risk",
+      "summary": "Contractor roll-off end of October",
+      "anchor": "rolls off at the end of October"
+    }
+  ],
+  "wk40_technology_cutover.txt": [
+    {
+      "type": "issue",
+      "summary": "DR1 batch overran",
+      "anchor": "finished at 06:40 instead of 04:00"
+    },
+    {
+      "type": "slip",
+      "summary": "Batch fix deployment moved to 23 Oct",
+      "anchor": "now expected on 23 October rather than 16 October"
+    },
+    {
+      "type": "issue",
+      "summary": "Application-layer rollback not tested",
+      "anchor": "application layer rollback was not attempted"
+    },
+    {
+      "type": "dependency",
+      "summary": "DR2 depends on fix deployment",
+      "anchor": "depends on the fix being deployed"
+    },
+    {
+      "type": "issue",
+      "summary": "Two severity 2 technical defects open",
+      "anchor": "Two severity 2 technical defects are open"
+    },
+    {
+      "type": "risk",
+      "summary": "Archiving licence extension not raised",
+      "anchor": "extension request has not yet been raised"
+    }
+  ],
+  "wk40_training.txt": [
+    {
+      "type": "issue",
+      "summary": "Training completion below plan",
+      "anchor": "81% against a plan of 88%"
+    },
+    {
+      "type": "slip",
+      "summary": "Training environment refresh one week late",
+      "anchor": "one week late"
+    },
+    {
+      "type": "risk",
+      "summary": "Only 11 of 14 floorwalkers confirmed",
+      "anchor": "only 11 have confirmed availability"
+    },
+    {
+      "type": "dependency",
+      "summary": "Corporate actions procedures with Operations",
+      "anchor": "with Operations for review"
+    }
+  ],
+  "wk40_risk_control.txt": [
+    {
+      "type": "dependency",
+      "summary": "Control testing needs DR2 build",
+      "anchor": "cannot be tested until the dress rehearsal 2 build"
+    },
+    {
+      "type": "slip",
+      "summary": "Operational Risk approval moves to 13 Nov",
+      "anchor": "moves from 30 October to 13 November"
+    },
+    {
+      "type": "decision",
+      "summary": "SteerCo to decide on conditional approval",
+      "anchor": "We need the SteerCo to decide"
+    }
+  ],
+  "wk40_operations.txt": [
+    {
+      "type": "issue",
+      "summary": "Hypercare staffing at 86% of requirement",
+      "anchor": "86% of the requirement"
+    },
+    {
+      "type": "slip",
+      "summary": "Staffing plan approval held",
+      "anchor": "Approval is therefore held"
+    },
+    {
+      "type": "dependency",
+      "summary": "120% load test waits on batch fix",
+      "anchor": "cannot be scheduled until Platform Engineering's batch fix"
+    }
+  ],
+  "wk40_business_change.txt": [
+    {
+      "type": "issue",
+      "summary": "Translation vendor quote 40% over budget",
+      "anchor": "40% above the budget line"
+    },
+    {
+      "type": "risk",
+      "summary": "Italian guide may miss day one unless variance approved",
+      "anchor": "two of the three languages on day one"
+    }
+  ],
+  "wk41_data_migration.txt": [
+    {
+      "type": "slip",
+      "summary": "Mock 3 moved to 17 Oct",
+      "anchor": "moved from 10 October to 17 October"
+    },
+    {
+      "type": "dependency",
+      "summary": "Depends on 23 Oct deployment date, verbal only",
+      "anchor": "depends on Platform Engineering holding the 23 October"
+    },
+    {
+      "type": "issue",
+      "summary": "DEF-121 enrichment has no owner",
+      "anchor": "no owner has been confirmed yet"
+    },
+    {
+      "type": "decision",
+      "summary": "Treasury change pending SteerCo guidance",
+      "anchor": "pending SteerCo guidance"
+    }
+  ],
+  "wk41_technology_cutover.txt": [
+    {
+      "type": "slip",
+      "summary": "DR2 re-planned to 7-8 Nov",
+      "anchor": "re-planned from 31 October to the weekend of 7 to 8 November"
+    },
+    {
+      "type": "decision",
+      "summary": "SteerCo to decide on DR1 evidence or defer",
+      "anchor": "asked to decide on the basis of dress rehearsal 1"
+    },
+    {
+      "type": "issue",
+      "summary": "DEF-209 still open",
+      "anchor": "DEF-209 remains open"
+    },
+    {
+      "type": "risk",
+      "summary": "Change freeze pushes any deferral into January",
+      "anchor": "would push go-live into January"
+    }
+  ],
+  "wk41_training.txt": [
+    {
+      "type": "issue",
+      "summary": "Training completion four points below plan",
+      "anchor": "four points below plan"
+    },
+    {
+      "type": "slip",
+      "summary": "95% completion moves to 10 Nov",
+      "anchor": "by 10 November rather than 30 October"
+    },
+    {
+      "type": "risk",
+      "summary": "12 of 14 floorwalkers confirmed",
+      "anchor": "12 confirmed of 14 required"
+    },
+    {
+      "type": "dependency",
+      "summary": "Floorwalker release depends on staffing decision",
+      "anchor": "depends on the hypercare staffing decision"
+    }
+  ],
+  "wk41_operations.txt": [
+    {
+      "type": "decision",
+      "summary": "Two staffing options for SteerCo",
+      "anchor": "We propose two options for the SteerCo"
+    },
+    {
+      "type": "risk",
+      "summary": "Staffing criterion stays red without decision",
+      "anchor": "staffing criterion stays red"
+    },
+    {
+      "type": "risk",
+      "summary": "Decision needed by 23 Oct (four weeks' notice)",
+      "anchor": "decision is needed by 23 October"
+    }
+  ]
+}

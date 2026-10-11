@@ -1,0 +1,5 @@
+Workstream: Technology Cut-over
+Week: 41 (9 October 2026)
+Author: Technology Delivery Lead
+
+The batch performance fix passed unit testing; regression starts 12 October and deployment to the production-like environment is confirmed for 23 October. Dress rehearsal 2 is accordingly re-planned from 31 October to the weekend of 7 to 8 November, one day after the go/no-go SteerCo. The committee will therefore be asked to decide on the basis of dress rehearsal 1 plus the fix test evidence, or to defer the decision by one week. The rollback test will be included in dress rehearsal 2 end to end. DEF-203 closed. DEF-209 remains open with a fix targeted for the 23 October deployment. One new item: the network change freeze for the Swiss data centres starts 1 December, so any deferral of the cut-over beyond 28 to 29 November would push go-live into January. The archiving licence extension has been raised with Procurement.

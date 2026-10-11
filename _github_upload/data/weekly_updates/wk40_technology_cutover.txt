@@ -1,0 +1,5 @@
+Workstream: Technology Cut-over
+Week: 40 (2 October 2026, updated 5 October after DR1)
+Author: Technology Delivery Lead
+
+Dress rehearsal 1 ran over the weekend of 3 to 4 October. The full sequence completed, but the Friday night batch finished at 06:40 instead of 04:00, which leaves a margin of about 1 hour 15 minutes against the Sunday 18:00 hard stop. Root cause is the position revaluation step, which serialises on the legacy pricing interface. Platform Engineering has a fix in development; deployment is now expected on 23 October rather than 16 October. Rollback was executed for the database layer only; the application layer rollback was not attempted because the window had closed. Dress rehearsal 2 is planned for 31 October and depends on the fix being deployed and regression-tested. Two severity 2 technical defects are open: DEF-203 (session timeout on the advisor dashboard) and DEF-209 (incorrect FX rate display for CHF/USD on day-one screens). The decommissioning plan for the legacy cluster is 85% complete. The archiving tool licence expires on 31 December and the extension request has not yet been raised.

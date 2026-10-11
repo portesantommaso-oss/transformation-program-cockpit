@@ -1,0 +1,134 @@
+{
+  "engine": "rules",
+  "dataset": "holdout",
+  "updates": 5,
+  "ground_truth_items": 18,
+  "extracted_sentences": 3,
+  "true_positive_sentences": 3,
+  "false_positive_sentences": 0,
+  "found_items": 3,
+  "missed_items": 15,
+  "recall": 0.167,
+  "precision": 1.0,
+  "f1": 0.286,
+  "type_accuracy_on_found": 0.667,
+  "missed": [
+    {
+      "type": "dependency",
+      "summary": "No written answer from Finance on freeze calendar",
+      "anchor": "Still no written answer from Finance",
+      "file": "wk42_pmo.txt"
+    },
+    {
+      "type": "issue",
+      "summary": "Archiving invoice CHF 42k vs 30k budget",
+      "anchor": "CHF 42k against CHF 30k budgeted",
+      "file": "wk42_pmo.txt"
+    },
+    {
+      "type": "risk",
+      "summary": "Pre-read deadline compressed to 3 Nov",
+      "anchor": "brought forward to 3 November",
+      "file": "wk42_pmo.txt"
+    },
+    {
+      "type": "risk",
+      "summary": "PMO analyst leave, cover not arranged",
+      "anchor": "cover is not yet arranged",
+      "file": "wk42_pmo.txt"
+    },
+    {
+      "type": "issue",
+      "summary": "Largest desks have not started DEF-121 enrichment",
+      "anchor": "have not started",
+      "file": "wk42_data_migration.txt"
+    },
+    {
+      "type": "slip",
+      "summary": "DEF-121 completion around 12 Nov, not 6 Nov",
+      "anchor": "lands around 12 November, not 6 November",
+      "file": "wk42_data_migration.txt"
+    },
+    {
+      "type": "risk",
+      "summary": "Treasury escalated currency table change",
+      "anchor": "escalated the currency table change",
+      "file": "wk42_data_migration.txt"
+    },
+    {
+      "type": "issue",
+      "summary": "3 regression failures under investigation",
+      "anchor": "3 failures under investigation",
+      "file": "wk42_technology.txt"
+    },
+    {
+      "type": "dependency",
+      "summary": "CAB wants failure analysis before 23 Oct deployment",
+      "anchor": "asked for the failure analysis beforehand",
+      "file": "wk42_technology.txt"
+    },
+    {
+      "type": "issue",
+      "summary": "Application rollback scripts unreviewed",
+      "anchor": "written but unreviewed",
+      "file": "wk42_technology.txt"
+    },
+    {
+      "type": "risk",
+      "summary": "Freeze may start 24 Nov for Zurich",
+      "anchor": "may start on 24 November",
+      "file": "wk42_technology.txt"
+    },
+    {
+      "type": "issue",
+      "summary": "Desk B cancelled protected training slot",
+      "anchor": "desk B cancelled theirs",
+      "file": "wk42_training_operations.txt"
+    },
+    {
+      "type": "decision",
+      "summary": "Chair asked for a third staffing option",
+      "anchor": "asked for a third staffing option",
+      "file": "wk42_training_operations.txt"
+    },
+    {
+      "type": "dependency",
+      "summary": "Partner mobilisation conditional on 23 Oct contract",
+      "anchor": "if contracted by 23 October",
+      "file": "wk42_training_operations.txt"
+    },
+    {
+      "type": "risk",
+      "summary": "Audit findings arrive after go/no-go",
+      "anchor": "findings would arrive after the go/no-go",
+      "file": "wk42_risk_control.txt"
+    }
+  ],
+  "false_positives": [],
+  "found": [
+    {
+      "type": "slip",
+      "summary": "BCP walkthrough moved to 4 Nov",
+      "anchor": "moved to 4 November",
+      "file": "wk42_training_operations.txt",
+      "predicted_type": "slip",
+      "type_match": true
+    },
+    {
+      "type": "dependency",
+      "summary": "Four-eyes control waits for DR2 build",
+      "anchor": "still waiting for the DR2 build",
+      "file": "wk42_risk_control.txt",
+      "predicted_type": "dependency",
+      "type_match": true
+    },
+    {
+      "type": "decision",
+      "summary": "Conditional approval needs Head of Op Risk at SteerCo",
+      "anchor": "would need the Head of Operational Risk",
+      "file": "wk42_risk_control.txt",
+      "predicted_type": "risk",
+      "type_match": false
+    }
+  ]
+}
